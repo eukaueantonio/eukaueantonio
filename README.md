@@ -11,4 +11,4 @@ Tenho 16 anos e estou cursando o Ensino Médio integrado ao Técnico em Desenvol
 
 
 ### Contatos 📱
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaue.a.santos@aluno.senai.br) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=dracula)](www.linkedin.com/in/eukaueantonio)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaue.a.santos@aluno.senai.br) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=dracula)](https://www.linkedin.com/in/eukaueantonio?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
