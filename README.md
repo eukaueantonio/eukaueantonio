@@ -1,4 +1,4 @@
-### Olá! Meu nome é Kauê Antonio 😁
+### Olá! Meu nome é Kauê Antonio 👋
 
 <div>
   <a href="https://github.com/eukaueantonio">
