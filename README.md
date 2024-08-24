@@ -1,5 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=120&section=header"/>
 
+</div>
+  <img align="right" alt="My anime version - Gif" height="180" style="border-radius:50px;" src="https://i.picasion.com/pic92/cb367005ec45c151caffb33a0d04c975.gif">
+</div>
+
 ### Tecnologias que eu tenho conhecimento 👨‍💻
 <div style="display: inline_block">
   <img  height="30" windth="30" src="https://img.shields.io/badge/C%2B%2B-808080?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
