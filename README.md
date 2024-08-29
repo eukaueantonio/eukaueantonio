@@ -1,7 +1,8 @@
 ### Olá! Meu nome é Kauê Antonio 😁
 Tenho 16 anos e estou cursando o Ensino Médio integrado ao Técnico em Desenvolvimento de Sistemas no SENAI. Amo passar meu tempo livre em atividades ao ar livre e estou sempre em busca de aprender algo novo.
 
-![ee557e185e3e1cab9e8dd33e4e1e1bd5](https://github.com/user-attachments/assets/bdd12b78-6e89-4918-8411-9c8c528063f1)
+![19d8337c97f648b82ae50705d4808560](https://github.com/user-attachments/assets/27b46235-825e-461a-870d-b6ffb1cf2429)
+
 
 ##
 
