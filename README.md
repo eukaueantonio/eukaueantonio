@@ -2,7 +2,6 @@
 
 ![19d8337c97f648b82ae50705d4808560](https://github.com/user-attachments/assets/27b46235-825e-461a-870d-b6ffb1cf2429)
 
-
 ##
 
 ### Tecnologias que eu tenho conhecimento 👨‍💻
