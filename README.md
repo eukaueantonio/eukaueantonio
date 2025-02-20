@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Kauê Antonio 😁
 
-![19d8337c97f648b82ae50705d4808560](https://github.com/user-attachments/assets/27b46235-825e-461a-870d-b6ffb1cf2429)
+![Image](https://github.com/user-attachments/assets/1bddb879-83f8-4178-b812-8ca3e7bb3e99)
 
 ##
 
